@@ -1,5 +1,9 @@
 this is practice for Git.
 Learning a basic workflow.
 
-git add.
-git commit.
+git add
+git commit
+git commit -v
+git status
+git log
+git rm
